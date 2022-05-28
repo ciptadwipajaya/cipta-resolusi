@@ -1,0 +1,4 @@
+CIPTA RESOLUSI
+-belajar coding secara konsisten.
+-belajar c++
+-belajar html, css, php
