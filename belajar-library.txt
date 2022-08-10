@@ -6,3 +6,5 @@ belajar swift
 belajar vue js
 belajar angular
 
+belajar python
+belajar mysql
