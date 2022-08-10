@@ -1,5 +1,4 @@
 CIPTA RESOLUSI
--belajar coding secara konsisten.
--belajar c++
--belajar html, css, php
+-belajar coding secara konsisten
 -setelah itu belajar js
+-setelah itu belajar php
