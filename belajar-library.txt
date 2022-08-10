@@ -1,1 +1,4 @@
 belajar react js
+belajar jQuery
+belajar Laravel
+belajar CI
