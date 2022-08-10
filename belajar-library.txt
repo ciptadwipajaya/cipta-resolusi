@@ -2,3 +2,6 @@ belajar react js
 belajar jQuery
 belajar Laravel
 belajar CI
+belajar swift
+belajar vue js
+belajar angular
